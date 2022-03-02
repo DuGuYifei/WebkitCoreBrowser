@@ -1,0 +1,12 @@
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\obj\Debug\WebkitCoreBrowser.csproj.AssemblyReference.cache
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\obj\Debug\WebkitCoreBrowser.Properties.Resources.resources
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\obj\Debug\WebkitCoreBrowser.csproj.GenerateResource.cache
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\obj\Debug\WebkitCoreBrowser.csproj.CoreCompileInputs.cache
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\bin\Debug\WebkitCoreBrowser.exe.config
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\bin\Debug\WebkitCoreBrowser.exe
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\bin\Debug\WebkitCoreBrowser.pdb
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\obj\Debug\WebkitCoreBrowser.exe
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\obj\Debug\WebkitCoreBrowser.pdb
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\obj\Debug\WebkitCoreBrowser.WebkitForm.resources
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\bin\Debug\WebKit.Interop.dll
+E:\Produce\WebkitCoreBrowser\WebkitCoreBrowser\bin\Debug\stdole.dll
